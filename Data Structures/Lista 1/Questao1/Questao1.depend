@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1749312874 source:c:\users\murasaki\source\repos\gustavocorreiaof\windows-forms\eda\data structures\lista 1\questao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
